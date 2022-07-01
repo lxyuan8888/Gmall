@@ -33,7 +33,7 @@
         <fastjson.version>1.2.47</fastjson.version>
         <httpclient.version>4.5.5</httpclient.version>
         <httpmime.version>4.3.6</httpmime.version>
-        <kafka.client.version>0.10.2.1</kafka.client.version>
+        <kafka.client.version>0.10.2.2</kafka.client.version>
 
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
